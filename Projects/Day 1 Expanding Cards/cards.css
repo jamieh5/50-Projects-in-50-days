@@ -22,7 +22,8 @@ body {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  flex: 0.5;
+  flex: 0.25;
+  transition: flex 1s ease;
 }
 
 .cards.active {
